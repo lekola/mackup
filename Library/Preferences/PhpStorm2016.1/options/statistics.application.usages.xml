@@ -1,0 +1,46 @@
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="run-configuration-type-temp">
+      <project id="xiaxian" values="PHPUnitRunConfigurationType" collectionTime="1460130063375" />
+    </group>
+    <group name="Git">
+      <project id="xiaxian" values="config.update.type.BRANCH_DEFAULT,data.local.branches.count.2+,config.repo.sync.NOT_DECIDED,config.save.policy.STASH,config.force.push.enabled,config.warn.about.detached.enabled,config.push.autoupdate.disabled,config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled,config.push.update.all.roots.enabled,data.remotes.in.project.1,config.ssh.enabled,data.remote.branches.count.2+" collectionTime="1460130063395" />
+    </group>
+    <group name="php-interpreters">
+      <project id="xiaxian" values="0" collectionTime="1460130063536" />
+    </group>
+    <group name="vcs">
+      <project id="xiaxian" values="Git" collectionTime="1460130063374" />
+    </group>
+    <group name="JavaScript versions">
+      <project id="xiaxian" values="ECMAScript 5.1" collectionTime="1460130063528" />
+    </group>
+    <group name="file-type">
+      <project id="xiaxian" values="ReST,YAML,htaccess,Locale,SmartyConfig,UNKNOWN,PHP,PLAIN_TEXT,JSON,XML,JavaScript,Ini,Images,CSS,HTML,Blade,TypeScript" collectionTime="1460130063384" />
+    </group>
+    <group name="php-include-path">
+      <project id="xiaxian" values="0" collectionTime="1460130063528" />
+    </group>
+    <group name="php-interpreter-version">
+      <project id="xiaxian" values="not installed" collectionTime="1460130063532" />
+    </group>
+    <group name="php-servers">
+      <project id="xiaxian" values="0" collectionTime="1460130063532" />
+    </group>
+    <group name="php-debug-skipped-paths">
+      <project id="xiaxian" values="0" collectionTime="1460130063538" />
+    </group>
+    <group name="module type">
+      <project id="xiaxian" values="WEB_MODULE" collectionTime="1460130063375" />
+    </group>
+    <group name="javaScript Scope Usages">
+      <project id="xiaxian" values="Project,Project" collectionTime="1460130063528" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="ideaapp.started" count="2" />
+      <entry feature="welcome.screen.WelcomeScreen.OpenDirectoryProject" count="1" />
+    </counts>
+  </component>
+</application>

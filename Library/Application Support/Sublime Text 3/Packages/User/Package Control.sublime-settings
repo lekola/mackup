@@ -1,0 +1,43 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"AutoFileName",
+		"Autoprefixer",
+		"Babel",
+		"Babel Snippets",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"ConvertToUTF8",
+		"CSScomb",
+		"DocBlockr",
+		"Emmet",
+		"HTML-CSS-JS Prettify",
+		"JSHint",
+		"Laravel 4 Facades",
+		"Markdown Preview",
+		"Material Theme",
+		"Node Completions",
+		"Nodejs",
+		"Package Control",
+		"PHPIntel",
+		"Pretty JSON",
+		"Project Manager",
+		"ReactJS",
+		"Seti_UI",
+		"Seti_UX",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-jsxhint",
+		"Theme - Flatland",
+		"Theme - itg.flat",
+		"Theme - Monokai",
+		"Theme - Nexus",
+		"TrailingSpaces"
+	]
+}

@@ -1,0 +1,25 @@
+<application>
+  <component name="RecentDirectoryProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/Code/GD/amap-service" />
+      </list>
+    </option>
+    <option name="lastPath" value="$USER_HOME$/Code/GD/amap-service" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/Code/GD/amap-service">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-143.1559" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1458112720777" />
+              <option name="buildTimestamp" value="1450800000000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>

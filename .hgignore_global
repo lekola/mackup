@@ -1,0 +1,7 @@
+syntax: glob
+
+*~
+.DS_Store
+src/main/resources/app/.idea
+git-m
+main.iml

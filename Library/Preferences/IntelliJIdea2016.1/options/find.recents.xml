@@ -1,0 +1,18 @@
+<application>
+  <component name="FindRecents">
+    <findStrings>
+      <find>buc</find>
+      <find>scop</find>
+      <find>scro</find>
+      <find>common</find>
+      <find>OssServiceHelper</find>
+      <find>result</find>
+      <find>logout</find>
+      <find>URLEncoder</find>
+      <find>odps</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$USER_HOME$/Code/GD/fox/src</dir>
+    </dirStrings>
+  </component>
+</application>

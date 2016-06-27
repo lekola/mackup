@@ -1,0 +1,89 @@
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="JavaScript versions">
+      <project id="fox" values="ECMAScript 5.1" collectionTime="1466649688232" />
+      <project id="flyingfox" values="ECMAScript 5.1" collectionTime="1466401999582" />
+      <project id="dyui-system-management" values="ECMAScript 5.1" collectionTime="1466753619944" />
+    </group>
+    <group name="module type">
+      <project id="fox" values="JAVA_MODULE" collectionTime="1466649687903" />
+      <project id="flyingfox" values="JAVA_MODULE" collectionTime="1466401999278" />
+      <project id="dyui-system-management" values="JAVA_MODULE" collectionTime="1466753619377" />
+    </group>
+    <group name="vcs">
+      <project id="fox" values="Git" collectionTime="1466649687902" />
+      <project id="flyingfox" values="Git" collectionTime="1466401999277" />
+      <project id="dyui-system-management" values="Git" collectionTime="1466753619376" />
+    </group>
+    <group name="Spring Boot">
+      <project id="fox" values="application.yml,RunConfigsPerProject_1" collectionTime="1466649688244" />
+      <project id="flyingfox" values="application.yml,RunConfigsPerProject_1" collectionTime="1466401999631" />
+      <project id="dyui-system-management" values="application.yml,RunConfigsPerProject_1,ConfigurationProperties_4" collectionTime="1466753620171" />
+    </group>
+    <group name="run-configuration-type">
+      <project id="fox" values="SpringBootApplicationConfigurationType,Application" collectionTime="1466649687904" />
+      <project id="flyingfox" values="SpringBootApplicationConfigurationType" collectionTime="1466401999278" />
+      <project id="dyui-system-management" values="SpringBootApplicationConfigurationType" collectionTime="1466753619378" />
+    </group>
+    <group name="run-configuration-type-temp">
+      <project id="fox" values="MavenRunConfiguration" collectionTime="1466649687904" />
+    </group>
+    <group name="file-type">
+      <project id="fox" values="SCSS,C++,Manifest,UNKNOWN,Eclipse,FTL,JSCS,JAVA,CoffeeScript,XML,SourceMap,IDEA_MODULE,PATCH,YAML,CSS,Properties,PLAIN_TEXT,ESLint,HTML,JavaScript,SQL,JSON,TypeScript,JSHint,Images" collectionTime="1466649688030" />
+      <project id="flyingfox" values="Manifest,YAML,Properties,SQL,Eclipse,PLAIN_TEXT,XML,JavaScript,IDEA_MODULE,FTL,CSS,JAVA" collectionTime="1466401999428" />
+      <project id="dyui-system-management" values="SourceMap,CSS,Properties,JSHint,SCSS,Images,JSCS,HTML,YAML,IDEA_MODULE,Eclipse,PATCH,Manifest,PLAIN_TEXT,CoffeeScript,FTL,JSON,JAVA,JavaScript,UNKNOWN,XML,ESLint,TypeScript,C++" collectionTime="1466753619660" />
+    </group>
+    <group name="Spring MVC">
+      <project id="fox" values="mvcModelsInProject_0" collectionTime="1466649688236" />
+      <project id="flyingfox" values="mvcModelsInProject_0" collectionTime="1466401999623" />
+      <project id="dyui-system-management" values="mvcModelsInProject_0" collectionTime="1466753620148" />
+    </group>
+    <group name="spring">
+      <project id="flyingfox" values="fileset_configFiles5,fileset_annotationContext,fileset_autodetect_com.intellij.spring.boot.model.SpringBootFileSet" collectionTime="1466401999615" />
+      <project id="dyui-system-management" values="xmlNS_www.taobao.com/hsf,fileset_configFiles5,fileset_xmlContext,xmlNS_www.springframework.org/schema/context,fileset_autodetect_NONE" collectionTime="1466753620146" />
+    </group>
+    <group name="frameworks">
+      <project id="fox" values="web" collectionTime="1466649687903" />
+      <project id="flyingfox" values="web,Spring" collectionTime="1466401999277" />
+      <project id="dyui-system-management" values="Spring,web" collectionTime="1466753619376" />
+    </group>
+    <group name="javaScript Scope Usages">
+      <project id="fox" values="Project,Project" collectionTime="1466649688232" />
+      <project id="flyingfox" values="Project,Project" collectionTime="1466401999582" />
+      <project id="dyui-system-management" values="Project,Project" collectionTime="1466753619944" />
+    </group>
+    <group name="Git">
+      <project id="fox" values="data.remotes.in.project.1,config.force.push.enabled,config.warn.about.detached.enabled,data.remote.branches.count.15+,config.cherry-pick.autocommit.disabled,config.ssh.enabled,config.warn.about.crlf.enabled,config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,config.push.autoupdate.disabled,data.local.branches.count.1,config.update.type.BRANCH_DEFAULT,config.save.policy.STASH" collectionTime="1466649688073" />
+      <project id="flyingfox" values="data.remotes.in.project.1,config.save.policy.STASH,config.warn.about.crlf.enabled,config.warn.about.detached.enabled,config.ssh.enabled,data.local.branches.count.2+,config.push.autoupdate.disabled,data.remote.branches.count.30+,config.cherry-pick.autocommit.disabled,config.force.push.enabled,config.repo.sync.NOT_DECIDED,config.push.update.all.roots.enabled,config.update.type.BRANCH_DEFAULT" collectionTime="1466401999449" />
+      <project id="dyui-system-management" values="config.save.policy.STASH,config.warn.about.detached.enabled,data.remotes.in.project.1,data.local.branches.count.2+,data.remote.branches.count.8+,config.update.type.BRANCH_DEFAULT,config.ssh.enabled,config.repo.sync.NOT_DECIDED,config.cherry-pick.autocommit.disabled,config.force.push.enabled,config.push.update.all.roots.enabled,config.push.autoupdate.disabled,config.warn.about.crlf.enabled" collectionTime="1466753619783" />
+    </group>
+    <group name="libraries">
+      <project id="fox" values="spring,WebSocket,spring-boot,spring-mvc,EJB,BeanValidation" collectionTime="1466649688062" />
+      <project id="flyingfox" values="spring-boot,EJB,WebSocket,groovy,spring-mvc,BeanValidation,spring,CDI" collectionTime="1466401999437" />
+      <project id="dyui-system-management" values="spring-boot,WebSocket,groovy,spring,spring-mvc,BeanValidation,EJB" collectionTime="1466753619744" />
+    </group>
+    <group name="language-level">
+      <project id="fox" values="JDK_1_3,JDK_1_8" collectionTime="1466649688069" />
+      <project id="flyingfox" values="JDK_1_8" collectionTime="1466401999444" />
+      <project id="dyui-system-management" values="JDK_1_3,JDK_1_8" collectionTime="1466753619756" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="execute.SpringBootApplicationConfigurationType.Debug" count="38" />
+      <entry feature="execute.SpringBootApplicationConfigurationType.Run" count="169" />
+      <entry feature="ide.settings.Appearance" count="2" />
+      <entry feature="ide.settings.Colors_&amp;_Fonts" count="2" />
+      <entry feature="ide.settings.Eclipse_Code_Formatter" count="2" />
+      <entry feature="ide.settings.File_and_Code_Templates" count="2" />
+      <entry feature="ide.settings.Font" count="3" />
+      <entry feature="ide.settings.Maven" count="8" />
+      <entry feature="ide.settings.Plugins" count="1" />
+      <entry feature="ide.settings.Project_Structure" count="4" />
+      <entry feature="ideaapp.started" count="16" />
+      <entry feature="spring.SpringConfigurationCheck.FileCount.java" count="105" />
+      <entry feature="spring.SpringConfigurationCheck.FileCount.xml" count="5" />
+      <entry feature="welcome.screen.WelcomeScreen.OpenProject" count="2" />
+    </counts>
+  </component>
+</application>

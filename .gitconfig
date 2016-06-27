@@ -1,0 +1,40 @@
+[push]
+	default = simple
+[alias]
+  new-ib = "!f() { echo 'Please wait, about 10 secs.. :)'; git fetch origin; git checkout -b $1 origin/master --no-track; git push --set-upstream origin $1; }; f"
+  ci = "commit"
+  co = "checkout"
+  cob = checkout -b # Checkout a new not yet existing branch
+  f = fetch -p # Fetch from a repository and prune any remote-tracking references that no longer exist on the remote.
+  br = branch
+  ci = commit # Commit you changes
+  st = status
+  ba  = branch -a # List both remote-tracking branches and local branches.
+  bd  = branch -d      # Delete a branch only if it has been merged
+  bD  = branch -D      # Force delete a branch
+  dc  = diff --cached  # Display the staged changes
+  rank = shortlog -sn --no-merges
+  bdm = "!git branch --merged | grep -v '*' | xargs -n 1 git branch -d" #删除所有已合并的分支
+	lg = log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
+[user]
+	name = 
+	email = 
+[color]
+	ui = true
+[git-up "fetch"]
+	all = true
+[filter "lfs"]
+	clean = git-lfs clean %f
+	smudge = git-lfs smudge %f
+	required = true
+[core]
+	editor = vim
+	excludesfile = /Users/cter/.gitignore_global
+[merge]
+	tool = opendiff
+[difftool "sourcetree"]
+	cmd = opendiff \"$LOCAL\" \"$REMOTE\"
+	path = 
+[mergetool "sourcetree"]
+	cmd = /Applications/SourceTree.app/Contents/Resources/opendiff-w.sh \"$LOCAL\" \"$REMOTE\" -ancestor \"$BASE\" -merge \"$MERGED\"
+	trustExitCode = true

@@ -1,0 +1,48 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/Code/GD/dyui-system-management" />
+        <option value="$USER_HOME$/Code/GD/fox" />
+      </list>
+    </option>
+    <option name="lastPath" value="$USER_HOME$/Code/GD/dyui-system-management" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/Code/GD/dyui-system-management">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.258" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1466998187025" />
+              <option name="buildTimestamp" value="1458144000000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Code/GD/flyingfox">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.258" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1466401281708" />
+              <option name="buildTimestamp" value="1458144000000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Code/GD/fox">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.258" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1466647667097" />
+              <option name="buildTimestamp" value="1458144000000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>

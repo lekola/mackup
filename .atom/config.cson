@@ -1,0 +1,57 @@
+"*":
+  "atom-beautify":
+    _analyticsUserId: "f56c0308-f372-4c91-8e01-16dfc5d59410"
+    general:
+      _analyticsUserId: "4581926a-589e-4adc-a07a-2a3d01174d6d"
+  "atom-maven":
+    mavenHome: "/usr/local/Cellar/maven/3.3.9/libexec/bin/"
+  core:
+    customFileTypes:
+      "source.ini": [
+        ".buckconfig"
+        ".flowconfig"
+      ]
+      "source.json": [
+        ".arcconfig"
+        "BUCK.autodeps"
+      ]
+      "source.python": [
+        "BUCK"
+      ]
+    disabledPackages: [
+      "activate-power-mode"
+      "whitespace"
+      "tree-view"
+    ]
+    themes: [
+      "seti-ui"
+      "atom-dark-syntax"
+    ]
+  docblockr: {}
+  editor:
+    fontSize: 15
+    invisibles: {}
+    softWrap: true
+  "exception-reporting":
+    userId: "ad667535-0a7a-fcab-565b-429da5386063"
+  "file-watcher":
+    promptWhenFileHasChangedOnDisk: false
+  "find-and-replace":
+    closeFindPanelAfterSearch: true
+    openProjectFindResultsInRightPane: true
+  fuse: {}
+  linter: {}
+  minimap: {}
+  nuclide:
+    "nuclide-home":
+      showHome: false
+  prettifier: {}
+  "seti-ui":
+    compactView: true
+    font: "Default Atom Font"
+    themeColor: "Green"
+  "tool-bar":
+    position: "Left"
+    visible: false
+  welcome:
+    showOnStartup: false

@@ -1,0 +1,56 @@
+<application>
+  <component name="DimensionService">
+    <location key="FileChooserDialogImpl.0.0.1920.1080" x="748" y="202" />
+    <location key="WELCOME_SCREEN.0.0.1920.1080" x="959" y="230" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1920.1080" x="678" y="361" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1080" x="424" y="195" />
+    <location key="#Project_Structure.0.0.1920.1080" x="448" y="114" />
+    <location key="SettingsEditor.0.0.1920.1080" x="458" y="196" />
+    <location key="ProcessPopupWindow.0.0.1920.1080" x="1435" y="814" />
+    <location key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog.0.0.1920.1080" x="698" y="287" />
+    <location key="#com.intellij.ide.util.TreeClassChooserDialog.0.0.1920.1080" x="697" y="330" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1440.900" x="438" y="271" />
+    <location key="FileChooserDialogImpl.0.0.1440.900" x="508" y="205" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1440.900" x="184" y="105" />
+    <location key="#Application.0.0.1440.900" x="347" y="23" />
+    <location key="WELCOME_SCREEN.0.0.1440.900" x="719" y="230" />
+    <location key="#Project_Structure.0.0.1440.900" x="208" y="24" />
+    <location key="SettingsEditor.0.0.1440.900" x="0" y="23" />
+    <location key="ProcessPopupWindow.0.0.1440.900" x="566" y="612" />
+    <location key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog.0.0.1920.1080" x="698" y="292" />
+    <location key="#com.intellij.ide.util.MemberChooser.0.0.1920.1080" x="773" y="225" />
+    <location key="findTextDialog.0.0.1920.1080" x="722" y="258" />
+    <location key="#Browse_Repositories.0.0.1920.1080" x="564" y="195" />
+    <location key="#com.intellij.refactoring.rename.AutomaticRenamingDialog.0.0.1920.1080" x="229" y="23" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1878" height="264" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1878" height="264" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1878" height="264" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1878" height="264" />
+    <size key="GridCell.Tab.1.left.0.0.1920.1080" width="1878" height="432" />
+    <size key="GridCell.Tab.1.center.0.0.1920.1080" width="1878" height="432" />
+    <size key="GridCell.Tab.1.right.0.0.1920.1080" width="1878" height="432" />
+    <size key="GridCell.Tab.1.bottom.0.0.1920.1080" width="1878" height="432" />
+    <size key="ProcessPopupWindow.0.0.1920.1080" width="425" height="105" />
+    <size key="GridCell.Tab.0.left.0.0.1440.900" width="1398" height="264" />
+    <size key="GridCell.Tab.0.center.0.0.1440.900" width="1398" height="264" />
+    <size key="GridCell.Tab.0.right.0.0.1440.900" width="1398" height="264" />
+    <size key="GridCell.Tab.0.bottom.0.0.1440.900" width="1398" height="264" />
+    <size key="ProcessPopupWindow.0.0.1440.900" width="543" height="105" />
+    <size key="SettingsEditor.0.0.1440.900" width="1383" height="837" />
+    <size key="GridCell.Tab.0.left.-1920.-124.1920.1080" width="1878" height="406" />
+    <size key="GridCell.Tab.0.center.-1920.-124.1920.1080" width="1878" height="406" />
+    <size key="GridCell.Tab.0.right.-1920.-124.1920.1080" width="1878" height="406" />
+    <size key="GridCell.Tab.0.bottom.-1920.-124.1920.1080" width="1878" height="406" />
+    <size key="DebuggerActiveHint.0.0.1920.1080" width="510" height="401" />
+    <size key="XDebugger.FullValuePopup.-1920.-124.1920.1080" width="960" height="508" />
+    <size key="GridCell.Tab.1.left.-1920.-124.1920.1080" width="1878" height="345" />
+    <size key="GridCell.Tab.1.center.-1920.-124.1920.1080" width="1878" height="345" />
+    <size key="GridCell.Tab.1.right.-1920.-124.1920.1080" width="1878" height="345" />
+    <size key="GridCell.Tab.1.bottom.-1920.-124.1920.1080" width="1878" height="345" />
+    <size key="GridCell.Tab.1.left.0.0.1440.900" width="1398" height="273" />
+    <size key="GridCell.Tab.1.center.0.0.1440.900" width="1398" height="273" />
+    <size key="GridCell.Tab.1.right.0.0.1440.900" width="1398" height="273" />
+    <size key="GridCell.Tab.1.bottom.0.0.1440.900" width="1398" height="273" />
+    <size key="SettingsEditor.0.0.1920.1080" width="1269" height="676" />
+  </component>
+</application>
